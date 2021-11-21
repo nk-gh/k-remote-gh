@@ -1,2 +1,3 @@
 Test file for git
 make changes to check diff and commit
+New line added-corrected
